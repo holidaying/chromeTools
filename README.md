@@ -21,6 +21,8 @@ The Great Suspender : 我们都知道，测试时有时候要开好多标签页�
 Pretty print : 又一款JS和CSS代码格式化美化工具
 
 HTTP Headers: 一款方便查看当前页面请求头信息的插件，如下图：
+web前端助手：会有很多的前端工具，json个格式化，css pretty，js正则，时间戳转换
+postman：接口查询
 
 
 
